@@ -1,0 +1,17 @@
+.countryInfo{
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin-top: 30px;
+    padding: 20px 0px;
+}
+.countryInfo img{
+   width: 100px;
+}
+.countryInfo button{
+    cursor: pointer;
+    padding: 10px 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 5px;
+    border: 1px solid darkblue;
+}
